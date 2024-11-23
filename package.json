@@ -17,5 +17,11 @@
     "db-migrate-pg": "^1.5.2"
   },
   "author": "HexSchool",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
 }
