@@ -9,3 +9,7 @@
 - 測試使用 SSH
 - 結果 SSH 一直出現問題，目前原因不明...
 - Task 1 完成
+- Task 2 完成，這個卡了一下，因為我不知道為何會需要使用到子查詢，後來才發現其實大部分的資料都是從別的 table 帶進去的，譬如：
+  - USER 的 id
+  - package 的 id 以及 price
+- 這些都是使用子查詢去 USER 跟 CREDIT_PACKAGE 裡面帶進來用的
