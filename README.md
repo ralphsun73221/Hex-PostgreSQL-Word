@@ -13,3 +13,6 @@
   - USER 的 id
   - package 的 id 以及 price
 - 這些都是使用子查詢去 USER 跟 CREDIT_PACKAGE 裡面帶進來用的
+
+## 241208
+- T3 以及 T4 完成
